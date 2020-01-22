@@ -1,0 +1,17 @@
+{
+    "token2": "NTU3OTQ4MjM2Mzc2MzA5Nzgw.XiIKlw.vOWgiPH_72MImeVMvLj10wlVju0",
+    "token": "youshouldnotseethishere",
+    "prefix":"ts.",
+    "status":"https://icoding.statuskit.com/",
+    "website":"https://infinity-coding.free.bg/",
+    "workingweb":"https://eiliev8.wixsite.com/ytsite/",
+    "ownerid": ["<@473276250815856650>"],
+    "Version": "3.2.2",
+    "ownerid2": "473276250815856650",
+    "bottag": "<@557948236376309780>",
+    "casing": 0,
+     "nodes": [
+        { "host": "localhost", "port": "3000", "password": "youshallnotpass"}
+    ]
+
+}
